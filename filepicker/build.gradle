@@ -7,6 +7,16 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 
+project.afterEvaluate {
+    publishing {
+        publications {
+            release(MavenPublication) {
+                from components.release
+            }
+        }
+    }
+}
+
 task sourceJar(type: Jar) {
     from android.sourceSets.main.java.srcDirs
     classifier "sources"
