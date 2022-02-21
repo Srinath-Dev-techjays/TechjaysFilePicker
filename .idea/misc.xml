@@ -3,7 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/drawable/icon_file_pdf.xml" value="0.1" />
         <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/layout/activity_file_pick.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/layout/activity_file_picker.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/layout/activity_media_details.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/layout/fragment_doc_picker.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/layout/fragment_media_folder_picker.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/layout/fragment_media_picker.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/layout/fragment_photo_picker.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/layout/item_doc_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/layout/item_folder_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/layout/item_photo_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/menu/doc_picker_menu.xml" value="0.2125" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/menu/media_detail_menu.xml" value="0.2125" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/menu/picker_menu.xml" value="0.2125" />
+        <entry key="..\:/Users/srina/AndroidStudioProjects/TechjaysFilePicker/filepicker/src/main/res/menu/select_menu.xml" value="0.2125" />
       </map>
     </option>
   </component>
