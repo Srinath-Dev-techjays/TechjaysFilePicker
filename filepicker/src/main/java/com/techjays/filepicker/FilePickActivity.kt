@@ -1,8 +1,7 @@
 package com.techjays.filepicker
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 
 class FilePickActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -10,6 +9,5 @@ class FilePickActivity : AppCompatActivity() {
         setContentView(R.layout.activity_file_pick)
 
     }
-
 
 }
